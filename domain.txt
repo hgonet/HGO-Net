@@ -1,0 +1,35 @@
+Salin dan tempel tag meta ke beranda di http://biyanshop.com. Letakkan tag meta di bagian <kop> dan sebelum bagian <isi> beranda.
+Tag meta:
+
+<meta name="google-site-verification" content="3D24LljZuzx-xsQGVm6AKX-E0LECqlKd-1n94-hZoTs" />
+
+
+<html>
+  <head>
+    <meta name="google-site-verification"
+             content="<meta name="google-site-verification" content="3D24LljZuzx-xsQGVm6AKX-E0LECqlKd-1n94-hZoTs" />" />
+    <title>Judul Saya</title>
+  </head>
+  <body>
+    konten halaman
+  </body>
+</html>
+
+@
+Nilai / Jawaban / Tujuan
+google-site-verification=3D24LljZuzx-xsQGVm6AKX-E0LECqlKd-1n94-hZoTs
+
+
+Prioritas	Nama | Host | Alias	
+1 @ 5 @ 5  @ 10 @ 10 @  
+
+ASPMX.L.GOOGLE.COM
+ALT1.ASPMX.L.GOOGLE.COM
+ALT2.ASPMX.L.GOOGLE.COM
+ALT3.ASPMX.L.GOOGLE.COM
+ALT4.ASPMX.L.GOOGLE.COM
+
+    Jika melihat bidang TTL (time to live/masa aktif), masukkan 3600 detik (1 jam).
+    Host tidak boleh menyertakan bidang "Nama", "Host", atau "Alias".
+    Jika host membatasi jumlah data MX yang dapat ditambahkan, masukkan data teratas sebanyak mungkin, mulai dari bagian tabel paling atas.
+    Jika host Anda menawarkan opsi untuk beralih ke email G Suite tanpa memasukkan data MX, pilihlah opsi ini.
